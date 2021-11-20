@@ -1,0 +1,9 @@
+brightness
+contrast
+blurrness
+exposure
+saturation
+sharpening
+highlights and shadows
+hue
+filter
